@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6622b13f334cef643b96373de48409ca
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scripts/States/MecanimAttackState.cs
+  uploadId: 302460

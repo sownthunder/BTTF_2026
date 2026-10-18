@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5591162baa2c0624a83957b3196edbba
+timeCreated: 1450371136
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/Triggers/LineOfSight/NavMesh.asset
+  uploadId: 302460

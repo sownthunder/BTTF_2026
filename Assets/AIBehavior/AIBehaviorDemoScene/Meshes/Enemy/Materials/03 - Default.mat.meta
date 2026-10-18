@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d4615b5c1be7da04792c446a73bc787c
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/AIBehaviorDemoScene/Meshes/Enemy/Materials/03 - Default.mat
+  uploadId: 302460

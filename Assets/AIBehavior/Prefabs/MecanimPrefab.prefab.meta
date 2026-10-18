@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: b22b981c32a40534d84d81b307961940
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Prefabs/MecanimPrefab.prefab
+  uploadId: 302460

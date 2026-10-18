@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4927411fe71f4d569478bdc25a3441a
+timeCreated: 1450371048
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/States/10_state_got_hit/NavMesh.asset
+  uploadId: 302460

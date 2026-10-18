@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0bf8c5f6a9a39e740b25d47189b7a477
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/ExampleScripts/ExampleDefendScript.cs
+  uploadId: 302460

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b76a8909ad2455b47a4f33282fa54016
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221813
+  packageName: 'AI BRAINS: Zombie Animations FREE'
+  packageVersion: 1.0.1
+  assetPath: Assets/QuanticBrains/AI BRAINS Zombie Animations/Demo/Scripts/ZombieDemoController.cs
+  uploadId: 505975

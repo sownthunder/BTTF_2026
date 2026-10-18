@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9badac7584dc3eb4892cc5f226757f6c
+timeCreated: 1488314472
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Materials/Red.mat
+  uploadId: 302460

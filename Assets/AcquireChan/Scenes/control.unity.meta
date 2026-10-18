@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f1027d2def606d644833ff34f7a15b6d
+timeCreated: 1515643551
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110031
+  packageName: AcquireChan 3D Model
+  packageVersion: 1.0
+  assetPath: Assets/AcquireChan/Scenes/control.unity
+  uploadId: 256351

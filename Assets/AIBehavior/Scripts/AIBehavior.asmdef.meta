@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5f66ac4d9dd4a46249e26918eafe42ca
+timeCreated: 1523920773
+licenseType: Store
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scripts/AIBehavior.asmdef
+  uploadId: 302460

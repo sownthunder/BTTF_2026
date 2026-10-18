@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1dcce3f16060e724aa17739ed7894afe
+timeCreated: 1515147562
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110031
+  packageName: AcquireChan 3D Model
+  packageVersion: 1.0
+  assetPath: Assets/AcquireChan/Prefabs/AcquireChan_Control.prefab
+  uploadId: 256351

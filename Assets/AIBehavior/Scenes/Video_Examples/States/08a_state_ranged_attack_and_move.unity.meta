@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f7e7e634b9f8a3e44ae4b74a3711bc4f
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/States/08a_state_ranged_attack_and_move.unity
+  uploadId: 302460

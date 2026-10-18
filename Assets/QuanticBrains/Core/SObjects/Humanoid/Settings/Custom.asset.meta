@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69c4e483a198eff47b227d86e5c3d128
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221813
+  packageName: 'AI BRAINS: Zombie Animations FREE'
+  packageVersion: 1.0.1
+  assetPath: Assets/QuanticBrains/Core/SObjects/Humanoid/Settings/Custom.asset
+  uploadId: 505975

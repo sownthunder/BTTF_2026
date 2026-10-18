@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 1ccc24f0c42b03c4ab1ad0b46afd9727
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/AIBehaviorDemoScene/Prefabs/spot_light.prefab
+  uploadId: 302460

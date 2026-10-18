@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3e9eed04b0be0793a7468559533b7ea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/MultiPlayerExamples/FollowingLastAttackedPlayer/LightingData.asset
+  uploadId: 302460

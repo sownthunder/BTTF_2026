@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d7658f6a038945c08b29d342672a8352
+timeCreated: 1644310466
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221813
+  packageName: 'AI BRAINS: Zombie Animations FREE'
+  packageVersion: 1.0.1
+  assetPath: Assets/QuanticBrains/Core/Scripts/Agent/Jointed/Humanoid/Sensors/SensorCollider.cs
+  uploadId: 505975

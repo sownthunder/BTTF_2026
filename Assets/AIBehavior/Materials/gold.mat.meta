@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af0ac31b59efe5c4b820308610c682b3
+timeCreated: 1480771398
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Materials/gold.mat
+  uploadId: 302460

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 03813d7bf58994efaa5a80f60855ecab
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Materials/avatar_blue.mat
+  uploadId: 302460

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b40c15f00c316764e84953dbda43bd30
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scripts/Triggers/BaseTrigger.cs
+  uploadId: 302460

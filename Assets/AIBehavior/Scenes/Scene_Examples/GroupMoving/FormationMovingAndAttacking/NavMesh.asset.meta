@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0fec291cc4a1a648bf72fea627fe46c
+timeCreated: 1488315478
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Scene_Examples/GroupMoving/FormationMovingAndAttacking/NavMesh.asset
+  uploadId: 302460

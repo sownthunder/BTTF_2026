@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: feafa6ab0cc908244829be9b7a71f311
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221813
+  packageName: 'AI BRAINS: Zombie Animations FREE'
+  packageVersion: 1.0.1
+  assetPath: Assets/QuanticBrains/Core/SObjects/Humanoid/Sensors/Basic Trigger.asset
+  uploadId: 505975

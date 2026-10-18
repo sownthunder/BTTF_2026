@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8757988c908a6794ab5234cd50deee6a
+timeCreated: 1450371108
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/Triggers/AudioTrigger/NavMesh.asset
+  uploadId: 302460

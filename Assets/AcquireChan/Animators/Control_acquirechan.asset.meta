@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0d0a3014ca1534442aa0cda4b6afddb8
+timeCreated: 1515497292
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110031
+  packageName: AcquireChan 3D Model
+  packageVersion: 1.0
+  assetPath: Assets/AcquireChan/Animators/Control_acquirechan.asset
+  uploadId: 256351

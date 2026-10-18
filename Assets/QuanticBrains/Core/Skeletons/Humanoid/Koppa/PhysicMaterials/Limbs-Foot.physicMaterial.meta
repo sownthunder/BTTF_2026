@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e549f3d28aa63d045856e6a9fa5297aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221813
+  packageName: 'AI BRAINS: Zombie Animations FREE'
+  packageVersion: 1.0.1
+  assetPath: Assets/QuanticBrains/Core/Skeletons/Humanoid/Koppa/PhysicMaterials/Limbs-Foot.physicMaterial
+  uploadId: 505975

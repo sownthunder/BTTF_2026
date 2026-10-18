@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5cb60ddb838bd42f8858d49c9709223f
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Scene_Examples/ReusingAI/ReusableAI.unity
+  uploadId: 302460

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: cd2bacc2d3a80ca43b6a71600e4cbf46
+labels:
+- Mixamo
+- Character
+- Male
+- Man
+- Hero
+- Rigged
+- low
+- Casual
+- normal
+- npc
+- set
+- package
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/AIBehaviorDemoScene/Meshes/MaleCharacterPack/readme.pdf
+  uploadId: 302460

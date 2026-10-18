@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f14e4d367796603468cdcefb5f3a169e
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/AIBehaviorDemoScene/Shaders/DiffuseWithAdjustableIllumin.shader
+  uploadId: 302460

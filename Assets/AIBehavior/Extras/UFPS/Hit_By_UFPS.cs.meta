@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ff8caef21d63a49f981223e071b8ddf1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Extras/UFPS/Hit_By_UFPS.cs
+  uploadId: 302460

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01cbb80c4e3e74ef9bd985ca129932a8
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scripts/Triggers/DistanceTrigger.cs
+  uploadId: 302460

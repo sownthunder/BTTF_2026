@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 286ab8108ea67ff4b8581cacd248ba48
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Prefabs/Explosion.prefab
+  uploadId: 302460

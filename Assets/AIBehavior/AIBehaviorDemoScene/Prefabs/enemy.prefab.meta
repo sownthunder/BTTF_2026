@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 8e2bf5764307d1f48935ebcb20ea69b4
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/AIBehaviorDemoScene/Prefabs/enemy.prefab
+  uploadId: 302460

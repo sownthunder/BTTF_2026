@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: e0d353a290c808146b59cbaf87060377
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/Triggers/LineOfSight.unity
+  uploadId: 302460

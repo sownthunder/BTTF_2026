@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 059991e8cb90b3d4baaa650c3a299fd5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scripts/Triggers/TriggerSkeleton.cs
+  uploadId: 302460

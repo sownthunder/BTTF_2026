@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f4773a8e5d4ac104b888a1580b05b466
+timeCreated: 1434970642
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110031
+  packageName: AcquireChan 3D Model
+  packageVersion: 1.0
+  assetPath: Assets/AcquireChan/Models/Materials/chrmt_f_acquire_face_01.mat
+  uploadId: 256351

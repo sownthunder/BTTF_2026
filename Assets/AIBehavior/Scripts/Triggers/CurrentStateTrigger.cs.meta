@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1406b9fc336dc164bb6e807f2d866c9e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scripts/Triggers/CurrentStateTrigger.cs
+  uploadId: 302460

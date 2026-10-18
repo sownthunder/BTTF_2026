@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 009a17b06f2a40f394d3e9e08a06af7a, type: 3}
+  m_Name: Custom
+  m_EditorClassIdentifier: 
+  maxJointSpring: 40000
+  jointDampen: 5000
+  maximumForce: 20000
+  maxAngularVelocity: 50
+  gravityMultiplier: 1
+  fixedDeltaTime: 0.016666668
+  maximumDeltaTime: 1
+  maximumParticleDeltaTime: 0.03
+  solverIterations: 12
+  solverVelocityIterations: 12
+  maxDepenetrationVelocity: 100
+  reuseCollisionCallbacks: 1

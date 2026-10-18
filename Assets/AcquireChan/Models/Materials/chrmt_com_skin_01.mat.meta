@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea56e6a5f97064544a647035754685cb
+timeCreated: 1444188330
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110031
+  packageName: AcquireChan 3D Model
+  packageVersion: 1.0
+  assetPath: Assets/AcquireChan/Models/Materials/chrmt_com_skin_01.mat
+  uploadId: 256351

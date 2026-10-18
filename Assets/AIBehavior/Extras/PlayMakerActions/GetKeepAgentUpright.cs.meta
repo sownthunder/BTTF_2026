@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 65e52a352c306423f8d8ebb0ed7d325a
+timeCreated: 1463680154
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Extras/PlayMakerActions/GetKeepAgentUpright.cs
+  uploadId: 302460

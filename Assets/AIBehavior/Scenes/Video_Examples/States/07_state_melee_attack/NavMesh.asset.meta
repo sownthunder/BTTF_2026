@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: efa0c39136efc4560a520f012a436127
+timeCreated: 1450371033
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/States/07_state_melee_attack/NavMesh.asset
+  uploadId: 302460

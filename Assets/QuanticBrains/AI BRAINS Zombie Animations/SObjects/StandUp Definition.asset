@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0865ade6f889424e954ce71996670a22, type: 3}
+  m_Name: StandUp Definition
+  m_EditorClassIdentifier: 
+  maxSteps: 0
+  behaviourName: Koppa
+  vectorObservationsSize: 266
+  numStackedObservations: 1
+  continuousActions: 45
+  discreteActions: 
+  model: {fileID: 5022602860645237092, guid: 714ceb2bd1062724db96bf8202d4dc6d, type: 3}
+  decisionPeriod: 5
+  takeActionsBetweenDecisions: 0
+  targetWalkingSpeed: 10
+  maxWalkingSpeed: 10
+  _behaviourManager: {fileID: 0}
+  _environmentManager: {fileID: 0}
+  actionsManager: {fileID: 11400000, guid: ae4d38211fde8634f98519da4a60632b, type: 2}
+  observationsManager: {fileID: 11400000, guid: a193221d37bed2247a22c75f9b6d7cc1, type: 2}
+  heuristicManager: {fileID: 0}
+  _sensors:
+  - {fileID: 11400000, guid: 2598695d5b84fff468ae9d283bd07438, type: 2}
+  - {fileID: 11400000, guid: feafa6ab0cc908244829be9b7a71f311, type: 2}
+  behaviourManagerInstantiated: {fileID: 0}
+  environmentManagerInstantiated: {fileID: 0}
+  isEnabled: 0

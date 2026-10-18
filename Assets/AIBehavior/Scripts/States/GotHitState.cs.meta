@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 422f0c6dcb02c7c4dab06f2380dacd94
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scripts/States/GotHitState.cs
+  uploadId: 302460

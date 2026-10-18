@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: ee1f4fb30d5bdac42b81ebbda701d5cb
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Prefabs/SpaceshipAI.prefab
+  uploadId: 302460

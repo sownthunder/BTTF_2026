@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c82da4d59edb62e418c84a1eaf983233
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scripts/EditorHelpers/AIBehaviorsTriggerGizmos.cs
+  uploadId: 302460

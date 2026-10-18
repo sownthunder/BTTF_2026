@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2598695d5b84fff468ae9d283bd07438
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221813
+  packageName: 'AI BRAINS: Zombie Animations FREE'
+  packageVersion: 1.0.1
+  assetPath: Assets/QuanticBrains/Core/SObjects/Humanoid/Sensors/Basic Collider.asset
+  uploadId: 505975

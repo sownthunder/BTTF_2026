@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4926c6545ab3e0b41986adff6659b57b
+timeCreated: 1480030668
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/States/19_state_stepback.unity
+  uploadId: 302460

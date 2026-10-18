@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 17dbaf904ebfe4d25839094cd65e5ce2
+timeCreated: 1463682121
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Extras/PlayMakerActions/GetDamageMultiplier.cs
+  uploadId: 302460

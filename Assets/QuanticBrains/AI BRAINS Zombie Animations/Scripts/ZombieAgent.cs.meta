@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7eca322bd1fb38b43bc476ed75f92a1d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221813
+  packageName: 'AI BRAINS: Zombie Animations FREE'
+  packageVersion: 1.0.1
+  assetPath: Assets/QuanticBrains/AI BRAINS Zombie Animations/Scripts/ZombieAgent.cs
+  uploadId: 505975

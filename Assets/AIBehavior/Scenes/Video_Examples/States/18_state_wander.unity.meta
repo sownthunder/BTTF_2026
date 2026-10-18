@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 09fc83d29bea7584a8270d5731ea259e
+timeCreated: 1480030668
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/States/18_state_wander.unity
+  uploadId: 302460

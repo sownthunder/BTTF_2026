@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4578e5591c8d4a94ada63cb72d4ffa8d
+timeCreated: 1648620303
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221813
+  packageName: 'AI BRAINS: Zombie Animations FREE'
+  packageVersion: 1.0.1
+  assetPath: Assets/QuanticBrains/Core/Scripts/Agent/BrainsManager/IHotSwappable.cs
+  uploadId: 505975

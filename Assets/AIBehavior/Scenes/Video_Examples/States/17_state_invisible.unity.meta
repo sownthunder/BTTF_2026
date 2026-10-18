@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2eb6e4da4f66b1548adcc06caa4563ee
+timeCreated: 1480030668
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/States/17_state_invisible.unity
+  uploadId: 302460

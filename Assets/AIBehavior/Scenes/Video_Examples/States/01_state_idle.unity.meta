@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 7d90c088bf21d4a45a8816950f71a13a
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/States/01_state_idle.unity
+  uploadId: 302460

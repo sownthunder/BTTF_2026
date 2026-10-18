@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 567f83e6ddcd9fa4fb631d15e2b97171
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/ExampleScripts/ExampleLaserAttackComponent.cs
+  uploadId: 302460

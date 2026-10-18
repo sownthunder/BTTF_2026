@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 360e24ae349afe74b95cbd4674f953df
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/Triggers/NoPlayerInSight.unity
+  uploadId: 302460

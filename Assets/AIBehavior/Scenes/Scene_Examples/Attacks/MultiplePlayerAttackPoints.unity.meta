@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89f4f55bc609f4b4e9c9f6d5c359584d
+timeCreated: 1451405084
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Scene_Examples/Attacks/MultiplePlayerAttackPoints.unity
+  uploadId: 302460

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3ecc3be4930e8f4488fc22a9b4e51d9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/ExampleScripts/SetPatrolPoints.cs
+  uploadId: 302460

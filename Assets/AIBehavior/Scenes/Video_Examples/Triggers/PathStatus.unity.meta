@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e07fc50185ad640e2a2ee8707ec72c6b
+timeCreated: 1458080551
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/Triggers/PathStatus.unity
+  uploadId: 302460

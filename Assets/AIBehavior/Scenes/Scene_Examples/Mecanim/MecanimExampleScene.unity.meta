@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 689e1bd85582f4ae292353f0589317a6
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Scene_Examples/Mecanim/MecanimExampleScene.unity
+  uploadId: 302460

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 91d1da7d6c01f07458b9011c3cfd275e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Prefabs/first_person_controller.prefab
+  uploadId: 302460

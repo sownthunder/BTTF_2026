@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a4ff76fea3959184ea060ccfdfd3c6c7
+timeCreated: 1483720439
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Scene_Examples/GroupMoving/FormationMoving.unity
+  uploadId: 302460

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 221ac24314024204d8cdfbfc6ac01ac7
+timeCreated: 1463392483
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110031
+  packageName: AcquireChan 3D Model
+  packageVersion: 1.0
+  assetPath: Assets/AcquireChan/Models/Shaders/imagine_chara_parts_body.shader
+  uploadId: 256351

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ef6cb979b7844cf49b35f87b7d3bdb6
+timeCreated: 1455650351
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/States/12_state_fly.unity
+  uploadId: 302460

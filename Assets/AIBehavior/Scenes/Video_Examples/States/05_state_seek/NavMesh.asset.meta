@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c321ece8575f94ceab673d707ac378ec
+timeCreated: 1479577000
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/States/05_state_seek/NavMesh.asset
+  uploadId: 302460

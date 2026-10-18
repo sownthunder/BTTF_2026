@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 95dd67d60898f594391be27322c291e9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/ExampleScripts/PlayerStats.cs
+  uploadId: 302460

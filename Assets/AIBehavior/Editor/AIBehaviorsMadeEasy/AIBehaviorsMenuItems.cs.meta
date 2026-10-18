@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b1851bd58e0d8f44b9d1d040660547e5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Editor/AIBehaviorsMadeEasy/AIBehaviorsMenuItems.cs
+  uploadId: 302460

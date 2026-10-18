@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d7c257b038cf4443925dfccbdf19247
+timeCreated: 1493057264
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/MultiPlayerExamples/FollowingLastAttackedPlayer.unity
+  uploadId: 302460

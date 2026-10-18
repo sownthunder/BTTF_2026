@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a291b03695ea9ff47b1e85dc07409cdb
+timeCreated: 1450371132
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/Triggers/InPlayerView/NavMesh.asset
+  uploadId: 302460

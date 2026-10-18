@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a5c837a29603714ea2e72034aa44365
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scripts/States/AttackState.cs
+  uploadId: 302460

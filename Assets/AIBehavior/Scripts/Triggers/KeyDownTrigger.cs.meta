@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e412cd45c45f2ad42bfce3fe2453c600
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scripts/Triggers/KeyDownTrigger.cs
+  uploadId: 302460

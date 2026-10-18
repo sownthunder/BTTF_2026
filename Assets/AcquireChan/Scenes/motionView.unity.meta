@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd6288e09125abf44b48db46513a8990
+timeCreated: 1513843398
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110031
+  packageName: AcquireChan 3D Model
+  packageVersion: 1.0
+  assetPath: Assets/AcquireChan/Scenes/motionView.unity
+  uploadId: 256351

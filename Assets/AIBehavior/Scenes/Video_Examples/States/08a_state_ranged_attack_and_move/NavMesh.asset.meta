@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 198bdc6f4891c7a4e9b70c65f75ed270
+timeCreated: 1450371041
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/States/08a_state_ranged_attack_and_move/NavMesh.asset
+  uploadId: 302460

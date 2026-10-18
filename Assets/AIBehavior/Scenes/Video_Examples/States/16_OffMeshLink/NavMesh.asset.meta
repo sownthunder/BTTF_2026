@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e4792bbd4bddda4591ce493810b8003
+timeCreated: 1450371070
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/States/16_OffMeshLink/NavMesh.asset
+  uploadId: 302460

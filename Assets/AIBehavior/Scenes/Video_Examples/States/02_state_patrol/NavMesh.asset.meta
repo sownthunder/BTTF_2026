@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ac9fff6f0911499abdee6cd5acac41f
+timeCreated: 1479747989
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/States/02_state_patrol/NavMesh.asset
+  uploadId: 302460

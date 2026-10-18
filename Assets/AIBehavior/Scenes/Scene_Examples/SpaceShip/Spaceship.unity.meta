@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 60a8ce9ebc0b14a49b170f199c5f4ff8
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Scene_Examples/SpaceShip/Spaceship.unity
+  uploadId: 302460

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e8148169e3ae18f45ae37c28ef492951
+timeCreated: 1481579211
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scripts/States/WanderState.cs
+  uploadId: 302460

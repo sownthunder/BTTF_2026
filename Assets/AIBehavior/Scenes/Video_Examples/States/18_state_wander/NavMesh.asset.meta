@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 345acfec7c46b3645bd1c106e38fb181
+timeCreated: 1481579389
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/States/18_state_wander/NavMesh.asset
+  uploadId: 302460

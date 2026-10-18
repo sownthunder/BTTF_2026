@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e72757e5223744b58979b2766f3c0d7
+timeCreated: 1450371054
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Video_Examples/States/11_state_change/NavMesh.asset
+  uploadId: 302460

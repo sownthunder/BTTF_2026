@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88201842b98294d50bafecdf7653dd76
+timeCreated: 1466092351
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Scene_Examples/Attacks/FleeAndAttack.unity
+  uploadId: 302460

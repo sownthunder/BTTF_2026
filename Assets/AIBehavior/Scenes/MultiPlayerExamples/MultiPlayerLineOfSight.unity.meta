@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ddb937cf1271794c87e23d68b1221b2
+timeCreated: 1493054659
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/MultiPlayerExamples/MultiPlayerLineOfSight.unity
+  uploadId: 302460

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b733e408b2d24d14a1e5ace75ce2fa6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Extras/Astar/AstarCharacterController.cs
+  uploadId: 302460

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7ef5a3f3a15d645a4ae94f6b9dd66c7a
+timeCreated: 1509157873
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3442
+  packageName: AI Behavior
+  packageVersion: 1.21
+  assetPath: Assets/AIBehavior/Scenes/Scene_Examples/ReusingAI/ReusableAI/LightingData.asset
+  uploadId: 302460
